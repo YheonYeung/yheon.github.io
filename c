@@ -1,3 +1,0 @@
-https://url.v1.mk/sub?target=clash&url=https%3A%2F%2Fking.likelike.ip-ddns.com%2FK&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini&filename=king&interval=0&tls13=true&emoji=true&list=false&xudp=true&udp=true&tfo=false&expand=true&scv=false&fdn=false&new_name=true
-
-https://url.v1.mk/sub?target=clash&url=https%3A%2F%2Focean.likelike.ip-ddns.com%2FO&insert=false&config=https%3A%2F%2Fraw.githubusercontent.com%2FACL4SSR%2FACL4SSR%2Fmaster%2FClash%2Fconfig%2FACL4SSR_Online.ini&filename=ocean&interval=0&tls13=true&emoji=true&list=false&xudp=true&udp=true&tfo=false&expand=true&scv=false&fdn=false&new_name=true
